@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/drawable/bg_customsp.xml" value="0.13" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/drawable/button_choose.xml" value="0.198" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/drawable/button_default.xml" value="0.198" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/drawable/button_press.xml" value="0.198" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/drawable/ic_baseline_delete_outline_24.xml" value="0.198" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1315" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/drawable/ic_baseline_event_note_24.xml" value="0.1315" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.1925" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/drawable/ic_baseline_storage_24.xml" value="0.1315" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/activity_chi_tiet_phieu_nhap.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/activity_kho.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/activity_phieu_nhap.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/activity_vat_tu.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/custom_spinner_mavt.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/custom_spinnner.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/kho.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/listview_chitietphieunhap.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/listview_kho.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/listview_phieunhap.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/listview_vattu.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/layout/phieunhap.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Nhom15QuanLyNhapKho/app/src/main/res/menu/menu.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.25052083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
